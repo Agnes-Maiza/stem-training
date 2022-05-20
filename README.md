@@ -2,7 +2,7 @@
 ## Day One
 Learning markdown,
 Installing python
-##Day two 
+## Day two 
 String concutination,
 Convertion of an interger and a float to a string
 ## Day three
