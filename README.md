@@ -25,3 +25,29 @@ Lists,
 Indexes,
 Strings as list,
 Nested list(matrixes)
+
+## Day five
+### List manipulation
+For loop in python,
+For loop with lists,
+Count in python,
+Removing characters
+
+## Day six
+Functions in python,
+List manipulation methods,
+List comprehension 
+
+## Day seven
+Dictionaries in python,
+Accessing item,
+Accessing using get,
+All keys,
+All values,
+Printing all items in a Dictionary,
+Checking if keys exists,
+Length of Dictionary,
+Dictionaries that can hold different data types
+
+
+
