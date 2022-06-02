@@ -51,4 +51,15 @@ Dictionaries that can hold different data types,
 Try-catch error
 
 
+## Day Eight
+### OOP
+Defining a class and its attributes,
+Creating instances (objects) of a class,
+Class methods (functions belonging to a class),
+Inheritance & Polymorphism,
+Method overriding,
+
+## Day 9
+
+
 
