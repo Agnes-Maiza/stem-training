@@ -63,7 +63,8 @@ Method overriding,
 ## Day 10(tue)
 ## Day 11(thur)
 Getting input from the user,
-Manipulation of the user input 
+Manipulation of the user input,
+Creating a simple calculator using GUI
 
 
 
