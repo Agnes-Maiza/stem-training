@@ -1,4 +1,4 @@
-# stem-training
+9# stem-training
 ## Day One
 Learning markdown,
 Installing python
@@ -62,6 +62,8 @@ Method overriding,
 ## Day 9(mon)
 ## Day 10(tue)
 ## Day 11(thur)
+Getting input from the user,
+Manipulation of the user input 
 
 
 
