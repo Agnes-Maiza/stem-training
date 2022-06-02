@@ -1,4 +1,4 @@
-9# stem-training
+# stem-training
 ## Day One
 Learning markdown,
 Installing python
