@@ -1,12 +1,12 @@
 # stem-training
 ## WEEK 1
-## Day One
+## Day 1
 Learning markdown,
 Installing python
-## Day two 
+## Day 2
 String concutination,
 Convertion of an interger and a float to a string
-## Day three
+## Day 3
 Lowercase,
 Uppercase,
 String length,
@@ -15,7 +15,7 @@ String strip,
 Boolean expressions,
 Gitbash download
 
-## Day four
+## Day 4
 ### Control flow
 If statement,
 Else,elif,
@@ -27,19 +27,19 @@ Indexes,
 Strings as list,
 Nested list(matrixes)
 ## WEEK 2
-## Day five
+## Day 5
 ### List manipulation
 For loop in python,
 For loop with lists,
 Count in python,
 Removing characters
 
-## Day six
+## Day 6
 Functions in python,
 List manipulation methods,(append,remove,pop,extend)
 List comprehension 
 
-## Day seven
+## Day 7
 Dictionaries in python,
 Accessing item,
 Accessing using get,
@@ -52,7 +52,7 @@ Dictionaries that can hold different data types,
 Try-catch error
 
 
-## Day Eight
+## Day 8
 ### OOP
 Defining a class and its attributes,
 Creating instances (objects) of a class,
@@ -69,7 +69,7 @@ Getting input from the user,
 Manipulation of the user input,
 Creating a simple calculator using GUI
 
-##Day 12(fri)
+## Day 12(fri)
 String functions,
 Exception handling(Value error, Zero Division Error),
 File handling(Open,Close,Read,Write,Make,Delete)
