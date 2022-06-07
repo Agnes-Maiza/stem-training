@@ -1,5 +1,5 @@
-# stem-training
-## WEEK 1
+# Stem-Training
+# WEEK 1
 ## Day 1
 Learning markdown,
 Installing python
@@ -26,7 +26,7 @@ Lists,
 Indexes,
 Strings as list,
 Nested list(matrixes)
-## WEEK 2
+# WEEK 2
 ## Day 5
 ### List manipulation
 For loop in python,
@@ -60,7 +60,7 @@ Class methods (functions belonging to a class),
 Inheritance & Polymorphism,
 Method overriding,
 
-## WEEK 3
+# WEEK 3
 
 ## Day 9(mon)
 ## Day 10(tue)
@@ -73,7 +73,7 @@ Creating a simple calculator using GUI
 String functions,
 Exception handling(Value error, Zero Division Error),
 File handling(Open,Close,Read,Write,Make,Delete)
-## WEEK 4
+# WEEK 4
 ## Day 13
 Creating a simple game(space invader),
 Setting the screen mode,background image,icon,caption
