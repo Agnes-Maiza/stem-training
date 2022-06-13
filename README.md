@@ -81,5 +81,9 @@ Setting the screen mode,background image,icon,caption
 ## Day 15
 Converting a .py file into a exe file(Executable file),
 ## Day 16
+## Day 17
+
+# WEEK 5
+# Day 18
 
 
